@@ -1,0 +1,14 @@
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\bin\Debug\netcoreapp3.1\FuturesContinuations.exe
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\bin\Debug\netcoreapp3.1\FuturesContinuations.deps.json
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\bin\Debug\netcoreapp3.1\FuturesContinuations.runtimeconfig.json
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\bin\Debug\netcoreapp3.1\FuturesContinuations.runtimeconfig.dev.json
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\bin\Debug\netcoreapp3.1\FuturesContinuations.dll
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\bin\Debug\netcoreapp3.1\FuturesContinuations.pdb
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.csproj.AssemblyReference.cache
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.AssemblyInfoInputs.cache
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.AssemblyInfo.cs
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.csproj.CoreCompileInputs.cache
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.dll
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.pdb
+C:\Users\S\Desktop\Prog-par-distrib\Lab4\FuturesContinuations\obj\Debug\netcoreapp3.1\FuturesContinuations.genruntimeconfig.cache

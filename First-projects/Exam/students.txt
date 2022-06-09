@@ -1,0 +1,6 @@
+103,Mihai Lol,13,10
+104,Maria LOl,5,10
+105,John Lol,12,10
+106,Alex Marean,20,10
+107,Stefi Nebunu,1,10
+11,Muc cel Mic,3,4
